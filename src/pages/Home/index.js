@@ -1,6 +1,6 @@
 
-import './App.css';
-import { TodoWrapper } from './components/TodoWrapper';
+import './styles.css';
+import { TodoWrapper } from '../../components/TodoWrapper';
 
 function App() {
   return (
