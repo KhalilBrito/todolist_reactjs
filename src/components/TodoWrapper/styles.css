@@ -11,3 +11,9 @@ h1 {
   font-size: 1.75rem;
 }
 
+@media (max-width: 768px) {
+  .TodoWrapper {
+    padding: 1rem; 
+    width: 100%;
+  }
+}
