@@ -3,8 +3,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: #8758ff;
-    color: #fff;
+    background: #095C76;
+    color: #ffffff;
     padding: 0.75rem 1rem;
     border-radius: 5px;
     margin-bottom: 1rem;
@@ -17,7 +17,7 @@
 }
 
 .completed {
-    color: #c5aeff;
+    color: #269cc0;
     text-decoration: line-through;
   }
   
