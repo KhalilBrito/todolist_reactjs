@@ -27,7 +27,7 @@ Para utilizar este aplicativo de lista de tarefas, siga os passos abaixo:
 1. Clone o repositório para a sua máquina:
 
    ```bash
-   git clone https://github.com/seu-usuario/todolist_reactjs.git
+   git clone https://github.com/KhalilBrito/todolist_reactjs.git
     ```
 
 2. Navegue até o diretório do projeto:
